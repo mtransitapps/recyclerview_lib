@@ -1,4 +1,4 @@
-recyclerview_lib
+recyclerview_lib [ARCHIVED]
 ================
 
-Our current version of the RecyclerView-v7 library.
+From a time before proper dependencies management and Support/AndroidX library split.
